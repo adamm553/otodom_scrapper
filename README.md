@@ -1,5 +1,5 @@
 
-```markdown
+
 # Otodom Real Estate Scraper
 
 An object-oriented Python web scraper designed to extract real estate data from the Otodom portal. This tool automates the process of gathering property information such as titles, prices, room counts, area, and location details.

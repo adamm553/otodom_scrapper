@@ -10,3 +10,4 @@ TYPE = "mieszkanie" # type "mieszkanie" if you want to buy an apartment or "dom"
 VOIVODESHIP = "slaskie" # type any other voivodeship
 CITY = "sosnowiec" # type your location
 RECORDS = 72 # possible values are [24, 36, 48, 72]
+FILE_NAME = "apartments.csv"

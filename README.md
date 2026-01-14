@@ -25,7 +25,7 @@ The project is divided into modules:
    ```bash
    git clone https://github.com/adamm553/otodom_scrapper
 
-```
+
 
 2. **Install dependencies**:
 ```bash
